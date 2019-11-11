@@ -1,2 +1,0 @@
-# SunMoonTheme
-Created with CodeSandbox
